@@ -1,5 +1,5 @@
 import { Component } from 'react'
-import Avatar from '../../../assets/hero-avatar.svg'
+import Avatar from '../../../../assets/hero-avatar.svg'
 
 export default class index extends Component {
   render() {
